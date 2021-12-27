@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Ignite
   - Hand
+  - EscapeRoom
+  - PrototypeScene
+  - MyScene
+  - SampleScene
+  - CustomScene
   layers:
   - Default
   - TransparentFX
