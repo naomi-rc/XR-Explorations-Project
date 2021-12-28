@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MyScenes/CustomScene.unity
     guid: 04a3ba90ecd10bc47b9cb0718f817b8f
-  - enabled: 1
+  - enabled: 0
     path: Assets/VR Beginner/Scenes/Final/EscapeRoom.unity
     guid: 0f290611f0f8be4419d06b71aba4e36a
   - enabled: 0
@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/XRTemplate.unity
     guid: 8e3de18619d083f499dfebfa9a575eac
+  - enabled: 1
+    path: Assets/Scenes/XRTemplateTeleportation.unity
+    guid: d195f87bfb9b6974da7faa671b7ed351
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398d945149746a94899cafbfeddf8c9f,
       type: 2}
